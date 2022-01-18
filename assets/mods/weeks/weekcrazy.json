@@ -1,1 +1,58 @@
-
+{
+	"storyName": "Old Timey Week",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bad-Thoughts",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Suffering",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Overjoy",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Hell-Sights",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
