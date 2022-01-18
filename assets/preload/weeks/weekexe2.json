@@ -1,0 +1,31 @@
+{
+	"storyName": "So little time...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"hill of the void",
+			"sonictwo",
+			[
+				0,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"consolex",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"weekName": "Round 2"
+}
